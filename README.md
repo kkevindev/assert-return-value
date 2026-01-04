@@ -1,3 +1,17 @@
+> [!IMPORTANT]  
+> `webmozarts/assert` version 2.0 now finally supports return values! Use that package (again) instead. It should be a drop-in replacement (just update imports).
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+----
+
+
+
 # Assert Return Value (ARV)
 ![Quality Assurance](https://github.com/kkevindev/assert-return-value/actions/workflows/quality_assurance.yaml.yml/badge.svg?branch=main)
 
