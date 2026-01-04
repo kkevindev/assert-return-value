@@ -20,5 +20,9 @@
     "psr-4": {
       "Kkevindev\\AssertReturnValue\\Tests\\": "tests/"
     }
-  }
+  },
+  "abadoned": "webmozarts/assert",
+  "_comment": [
+    "webmozarts/assert@2.0.0 has added return values now, so this package is no longer needed."
+  ]
 }
